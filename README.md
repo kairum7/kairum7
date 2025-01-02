@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello there 👋
+- I'm currently learning Python and getting started on JavaScript
+- Apart of coding, I am also a scout ⚜️
+- I also love to be creative and to spend time in nature 🌱
 <!--
 **kairum7/kairum7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
